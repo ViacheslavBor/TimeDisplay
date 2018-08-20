@@ -1,0 +1,18 @@
+.wrapper {
+	height: 700px;
+	width: 500px;
+	background-color: yellow;
+}
+.date {
+	font-size: 51px;
+	margin-left: 132px
+}
+.time {
+	font-size: 51px;
+    padding-top: 40px;
+    padding-left: 20px;
+}
+h1 {
+	padding-top: 20px;
+    padding-left: 49px;
+}
